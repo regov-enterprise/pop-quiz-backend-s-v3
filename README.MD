@@ -53,5 +53,4 @@ Example Output: [1, 2, 3, 5, 6, 9]
 1. Email your complete work to techchallenge@regovtech.com & careers@regovtech.com
 2. Submit Github Repo
 
-Good Luck!# pop-quiz-backend-s-v2
-# pop-quiz-backend-s-v3
+Good Luck!
